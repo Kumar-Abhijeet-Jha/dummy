@@ -3,7 +3,7 @@ body{
 }
 table{
   border: 45px groove red;
-  background:white;
+  background:#ccc;
   margin: auto;
 }
 
@@ -21,5 +21,5 @@ tr:nth-of-type(odd) td:nth-of-type(even){
 }
 
 td:hover{
-
+   background: red;
 }
