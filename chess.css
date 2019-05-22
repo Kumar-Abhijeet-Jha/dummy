@@ -1,0 +1,25 @@
+body{
+  background-image: url("http://www.crotonekitchens.com/images/finishes/671062.jpg");
+}
+table{
+  border: 45px groove Yellow;
+  background:white;
+  margin: auto;
+}
+
+td{
+  width: 100px;
+  height: 65px;
+}
+
+tr:nth-of-type(even) td:nth-of-type(odd){
+  background: black;
+}
+
+tr:nth-of-type(odd) td:nth-of-type(even){
+  background: black;
+}
+
+td:hover{
+  
+}
