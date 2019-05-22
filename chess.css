@@ -2,7 +2,7 @@ body{
   background-image: url("http://www.crotonekitchens.com/images/finishes/671062.jpg");
 }
 table{
-  border: 45px groove Yellow;
+  border: 45px groove red;
   background:white;
   margin: auto;
 }
@@ -21,5 +21,5 @@ tr:nth-of-type(odd) td:nth-of-type(even){
 }
 
 td:hover{
-  
+
 }
